@@ -1,0 +1,12 @@
+---
+Random Forest mit GridSearchCV
+
+Beste Hyperparameter: {'max_depth': 10, 'min_samples_split': 5, 'n_estimators': 200}
+Bestes CV-R²: 0.11033533498854872
+Test MSE: 216.95309097008933
+Test R²: 0.10319446060041326
+
+----
+Neural Network
+Mean Squared Error (MSE): 233.30
+R²-Wert: 0.04
